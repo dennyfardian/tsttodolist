@@ -1,0 +1,73 @@
+.heading{
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: #03254c;
+    background: #D0EFFF;
+    border: 2px solid #173F5F;
+    border-radius: 20px;
+}
+
+form {
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px;
+    background: #D0EFFF;
+    border: 1px solid #173F5F;
+}
+form p{
+    color: #1B667E;
+    margin: 0px;
+}
+.task_input{
+    width: 75%;
+    height: 15px;
+    padding: 10px;
+    border: 2px solid #173F5F;
+}
+.add_btn{
+    height: 39px;
+    background: #F3E9D2;
+    color: #173F5F;
+    border: 2px solid #173F5F;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.edit_btn {
+    text-decoration: none;
+    padding: 1px 6px;
+    background: #2E8B57;
+    color: white;
+    border-radius: 3px;
+}
+table{
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+tr{
+    font-size: 19px;
+    color:#173F5F;
+}
+th, td{
+    border: none;
+    height: 30px;
+    padding:2px;
+}
+tr:hover{
+    background: #E9E9E9;
+}
+.task{
+    text-align: left;
+}
+.delete{
+    text-align:center;
+}
+.delete a{
+    color: white;
+    background:#a52a2a;
+    padding: 1px 6px;
+    border-radius:3px;
+    text-decoration: none;
+}
